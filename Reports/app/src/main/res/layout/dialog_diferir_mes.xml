@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:gravity="center_horizontal"
+	android:elevation="24dp"
+	android:layout_marginTop="10dp"
+	android:layout_marginLeft="10dp"
+	android:layout_marginRight="10dp"
+	android:layout_marginBottom="10dp">
+
+	<GridLayout
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		rowCount="3"
+		columnCount="2"
+		android:columnCount="7"
+		android:rowCount="3"
+		android:layout_weight="1.0"
+		android:weightSum="100">
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="1"
+			android:id="@+id/btn1"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="2"
+			android:id="@+id/btn2"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="3"
+			android:id="@+id/btn3"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="4"
+			android:id="@+id/btn4"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="5"
+			android:id="@+id/btn5"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="6"
+			android:id="@+id/btn6"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="7"
+			android:id="@+id/btn7"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="8"
+			android:id="@+id/btn8"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="9"
+			android:id="@+id/btn9"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="10"
+			android:id="@+id/btn10"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="11"
+			android:id="@+id/btn11"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="12"
+			android:id="@+id/btn12"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="13"
+			android:id="@+id/btn13"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="14"
+			android:id="@+id/btn14"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="15"
+			android:id="@+id/btn15"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="16"
+			android:id="@+id/btn16"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="17"
+			android:id="@+id/btn17"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="18"
+			android:id="@+id/btn18"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="19"
+			android:id="@+id/btn19"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="20"
+			android:id="@+id/btn20"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="21"
+			android:id="@+id/btn21"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="22"
+			android:id="@+id/btn22"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="23"
+			android:id="@+id/btn23"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="24"
+			android:id="@+id/btn24"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="25"
+			android:id="@+id/btn25"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="26"
+			android:id="@+id/btn26"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="27"
+			android:id="@+id/btn27"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="28"
+			android:id="@+id/btn28"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="29"
+			android:id="@+id/btn29"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="30"
+			android:id="@+id/btn30"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="31"
+			android:id="@+id/btn31"
+			android:onClick="selectNumDia"
+			style="@style/ButtonStyle"/>
+
+	</GridLayout>
+
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:gravity="end">
+
+		<Button
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Aceptar"
+			android:id="@+id/btnAceptarMes"
+			android:onClick="selectNumDia"/>
+
+	</LinearLayout>
+
+</LinearLayout>
+

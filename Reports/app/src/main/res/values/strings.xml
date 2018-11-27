@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reports</string>
+	<string name="create_report">Crear Reporte</string>
+	<string name="name_report">Nombre Reporte</string>
+	<string name="tipo_report">Tipo reporte</string>
+	<string name="valor_report">Valor total reporte</string>
+	<string name="diferir">Diferir en</string>
+	<string name="admin_valor">Administrar Valor</string>
+	<string name="admin_persons">Administrar Personas</string>
+</resources>

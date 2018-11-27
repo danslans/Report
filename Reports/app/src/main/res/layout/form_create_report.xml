@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+
+	<EditText
+		android:layout_width="match_parent"
+		android:ems="10"
+		android:layout_height="wrap_content"
+		android:id="@+id/eTextNameReport"
+		android:hint="@string/name_report"/>
+
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:text="@string/tipo_report"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:gravity="center|center_vertical|center_horizontal"/>
+
+		<Spinner
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/spMeta"/>
+
+	</LinearLayout>
+
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/contentCobro"
+		android:weightSum="100">
+
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:text="@string/diferir"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:gravity="center|center_vertical|center_horizontal"/>
+
+		<Spinner
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:id="@+id/spDiferirEn"/>
+
+	</LinearLayout>
+
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/contentCobro"
+		android:weightSum="100">
+
+	</LinearLayout>
+
+	<EditText
+		android:layout_width="match_parent"
+		android:inputType="numberDecimal"
+		android:layout_height="wrap_content"
+		android:ems="10"
+		android:hint="@string/valor_report"
+		android:id="@+id/eTextValorTotal"/>
+
+	<ListView
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:id="@+id/listReports"/>
+
+</LinearLayout>
+

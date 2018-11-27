@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/itemCreateReport"
+        android:title="@string/create_report"/>
+	<item
+        android:id="@+id/itemAdminValor"
+        android:title="@string/admin_valor"/>
+	<item
+        android:id="@+id/itemAdminPersons"
+        android:title="@string/admin_persons"/>
+</menu>

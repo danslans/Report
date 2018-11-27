@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:gravity="center|center_vertical|center_horizontal">
+
+	<GridLayout
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		rowCount="1"
+		columnCount="1"
+		android:columnCount="7"
+		android:rowCount="1"
+		android:layout_gravity="center|center_vertical|center_horizontal"
+		android:layout_marginBottom="10dp"
+		android:layout_marginLeft="10dp"
+		android:layout_marginRight="10dp">
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="D"
+			android:id="@+id/btnDomingo"
+			android:onClick="selectDiaSemanal"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="L"
+			android:id="@+id/btnLunes"
+			android:onClick="selectDiaSemanal"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="M"
+			android:id="@+id/btnMartes"
+			android:onClick="selectDiaSemanal"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="MC"
+			android:gravity="center"
+			android:id="@+id/btnMiercoles"
+			android:onClick="selectDiaSemanal"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="J"
+			android:id="@+id/btnJueves"
+			android:onClick="selectDiaSemanal"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="V"
+			android:id="@+id/btnViernes"
+			android:onClick="selectDiaSemanal"
+			style="@style/ButtonStyle"/>
+
+		<Button
+			android:layout_width="50dp"
+			android:layout_height="wrap_content"
+			android:text="S"
+			android:id="@+id/btnSabado"
+			android:onClick="selectDiaSemanal"
+			style="@style/ButtonStyle"/>
+
+	</GridLayout>
+
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:gravity="end">
+
+		<Button
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Aceptar"
+			android:id="@+id/btnAceptarSemana"
+			android:onClick="selectDiaSemanal"/>
+
+	</LinearLayout>
+
+</LinearLayout>
+
