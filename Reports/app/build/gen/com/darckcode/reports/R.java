@@ -55,15 +55,17 @@ public final class R {
         public static final int btnSabado=0x7f07002d;
         public static final int btnViernes=0x7f07002c;
         public static final int contentCobro=0x7f070031;
+        public static final int eTextNamePerson=0x7f070035;
         public static final int eTextNameReport=0x7f07002f;
         public static final int eTextValorTotal=0x7f070033;
-        public static final int itemAdminPersons=0x7f070038;
-        public static final int itemAdminValor=0x7f070037;
-        public static final int itemCreateReport=0x7f070036;
-        public static final int itemEditarReport=0x7f07003b;
-        public static final int itemEliminarReport=0x7f07003a;
-        public static final int itemGuardar=0x7f070039;
-        public static final int listPersons=0x7f070035;
+        public static final int itemAdminPersons=0x7f070039;
+        public static final int itemAdminValor=0x7f070038;
+        public static final int itemCreateReport=0x7f070037;
+        public static final int itemEditarReport=0x7f07003d;
+        public static final int itemEliminarReport=0x7f07003c;
+        public static final int itemGuardar=0x7f07003b;
+        public static final int itemGuardarPerson=0x7f07003a;
+        public static final int listPersons=0x7f070036;
         public static final int listReports=0x7f070034;
         public static final int spDiferirEn=0x7f070032;
         public static final int spMeta=0x7f070030;
@@ -82,12 +84,14 @@ public final class R {
         public static final int dialog_diferir_mes=0x7f030003;
         public static final int dialog_diferir_semana=0x7f030004;
         public static final int form_create_report=0x7f030005;
-        public static final int main=0x7f030006;
+        public static final int form_persons=0x7f030006;
+        public static final int main=0x7f030007;
     }
     public static final class menu {
         public static final int menu=0x7f060000;
-        public static final int menu_form_report=0x7f060001;
-        public static final int menu_report_options=0x7f060002;
+        public static final int menu_form_persons=0x7f060001;
+        public static final int menu_form_report=0x7f060002;
+        public static final int menu_report_options=0x7f060003;
     }
     public static final class string {
         public static final int admin_persons=0x7f040007;

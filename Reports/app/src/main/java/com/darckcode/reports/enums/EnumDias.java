@@ -32,7 +32,7 @@ public enum EnumDias
 		return descripcion;
 	};
 
-	public EnumDias(String codigo, String descripcion)
+	 EnumDias(String codigo, String descripcion)
 	{
 		this.codigo = codigo;
 		this.descripcion = descripcion;

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_form_report.xml.flat",
+        "source": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\src\\main\\res\\menu\\menu_form_report.xml"
+    },
+    {
+        "merged": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_person.xml.flat",
+        "source": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\src\\main\\res\\layout\\adapter_person.xml"
+    },
+    {
+        "merged": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_report_options.xml.flat",
+        "source": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\src\\main\\res\\menu\\menu_report_options.xml"
+    },
+    {
+        "merged": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_diferir_semana.xml.flat",
+        "source": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\src\\main\\res\\layout\\dialog_diferir_semana.xml"
+    },
+    {
+        "merged": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\build\\intermediates\\res\\merged\\debug\\layout_form_create_report.xml.flat",
+        "source": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\src\\main\\res\\layout\\form_create_report.xml"
+    },
+    {
+        "merged": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_diferir_mes.xml.flat",
+        "source": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\src\\main\\res\\layout\\dialog_diferir_mes.xml"
+    },
+    {
+        "merged": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\build\\intermediates\\res\\merged\\debug\\layout_calendar.xml.flat",
+        "source": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\src\\main\\res\\layout\\calendar.xml"
+    },
+    {
+        "merged": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\build\\intermediates\\res\\merged\\debug\\layout_form_persons.xml.flat",
+        "source": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\src\\main\\res\\layout\\form_persons.xml"
+    },
+    {
+        "merged": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_report.xml.flat",
+        "source": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\src\\main\\res\\layout\\adapter_report.xml"
+    },
+    {
+        "merged": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_form_persons.xml.flat",
+        "source": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\src\\main\\res\\menu\\menu_form_persons.xml"
+    },
+    {
+        "merged": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

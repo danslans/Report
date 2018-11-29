@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:5:5-37:19
+	android:label
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:9:9-40
+activity#com.darckcode.reports.activity.FormReport
+ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:10:3-18:20
+	android:parentActivityName
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:13:4-45
+	android:label
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:12:13-50
+	android:name
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:11:13-48
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:15:4-17:36
+	android:value
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:17:5-33
+	android:name
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:16:5-51
+activity#com.darckcode.reports.activity.FormPersons
+ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:19:3-27:20
+	android:parentActivityName
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:22:4-45
+	android:label
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:21:13-50
+	android:name
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:20:13-49
+activity#com.darckcode.reports.MainActivity
+ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:label
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml
+INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml
+INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml
+INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml
+		ADDED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Aplicaciones\App_Reports\Report\Reports\app\src\main\AndroidManifest.xml

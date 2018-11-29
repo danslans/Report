@@ -32,7 +32,6 @@ public class ReportDb extends SQLiteOpenHelper
 	public class ConfigureTable implements BaseColumns{
 		public static final String NAME_TABLE_PERSON = "TBL_PERSONS";
 		public static final String COLUMN_NAME_PERSON = "NAME";
-		public static final String COLUMN_LAST_NAME_PERSON= "LASTNAME";
 		
 		public static final String NAME_TABLE_REPORTS_PERSONS = "TBL_REPORT_PERSON";
 		public static final String COLUMN_REPORTS_PERSONS_VALUE = "VALUE";
@@ -48,9 +47,9 @@ public class ReportDb extends SQLiteOpenHelper
 		
 		public static final String QUERY_TABLE_PERSON = "CREATE TABLE "+NAME_TABLE_PERSON+" ("+
 		ConfigureTable._ID+" INTEGER PRIMARY KEY AUTOINCREMENT,"+
-		COLUMN_NAME_PERSON+" TEXT, "+
-		COLUMN_LAST_NAME_PERSON+" TEXT "+
+		COLUMN_NAME_PERSON+" TEXT "+
 		"); ";
+		
 		public static final String QUERY_TABLE_YEARVALUE = "CREATE TABLE "+NAME_TABLE_REPORTS_PERSONS+" ("+
 		ConfigureTable._ID+ " INTEGER PRIMARY KEY AUTOINCREMENT, "+
 		COLUMN_REPORTS_PERSONS_VALUE+" TEXT, "+

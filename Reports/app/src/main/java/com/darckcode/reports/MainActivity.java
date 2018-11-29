@@ -10,6 +10,7 @@ import android.view.ContextMenu.*;
 import android.view.*;
 import android.content.*;
 import com.darckcode.reports.activity.*;
+import com.darckcode.reports.model.Person;
 
 public class MainActivity extends Activity 
 {
@@ -52,6 +53,9 @@ public class MainActivity extends Activity
 			case R.id.itemCreateReport:
 				Intent openConfiguration = new Intent(this,FormReport.class);	
 				startActivity(openConfiguration);
+				return true;
+			case R.id.itemAdminPersons:
+				startActivity(new Intent(this,FormPersons.class));
 				return true;
 		}
 		

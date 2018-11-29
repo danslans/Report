@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "10,9,3,4,8,5,6,7",
+                        "startColumns": "1,1,4,1,1,1,1,1",
+                        "startOffsets": "410,355,56,98,311,151,203,253",
+                        "endColumns": "59,54,44,52,43,51,49,57",
+                        "endOffsets": "468,408,96,149,353,201,251,309"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,118,176,221,277,324,379,432",
+                        "endColumns": "62,57,44,55,46,54,52,60",
+                        "endOffsets": "113,171,216,272,319,374,427,488"
+                    }
+                },
+                {
+                    "source": "D:\\Aplicaciones\\App_Reports\\Report\\Reports\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2,4",
+                        "startColumns": "4,1",
+                        "startOffsets": "55,131",
+                        "endLines": "3,6",
+                        "endColumns": "9,9",
+                        "endOffsets": "129,217"
+                    },
+                    "to": {
+                        "startLines": "10,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "493,572",
+                        "endLines": "11,14",
+                        "endColumns": "9,9",
+                        "endOffsets": "567,657"
+                    }
+                }
+            ]
+        }
+    ]
+}

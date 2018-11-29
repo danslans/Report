@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/itemGuardarPerson"
+        android:title="Item"
+		android:icon="@android:drawable/ic_menu_save"
+		android:showAsAction="ifRoom"
+		/>
+    
+</menu>
